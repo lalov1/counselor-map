@@ -2040,7 +2040,7 @@ var statesData = {
             "counselor": "Noelle Clark",
             "phone": "719-549-2093",
             "email": "Noelle.Clark@csupueblo.edu",
-            "section": 1,
+            "section": 3,
             "imageUrl": "img/Noelle.jpg"
         },
         "geometry": {
