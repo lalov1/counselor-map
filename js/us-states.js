@@ -7021,11 +7021,11 @@ var statesData = {
         "id": "CO17",
         "properties": {
             "name": "Alamosa",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "counselor": "Sherrea Elliot", 
+            "phone" : "719-549-2704",
+            "email": "sherrea.elliot@csupueblo.edu",
+            "section": 4,
+            "imageUrl": "img/Sherrea.jpg"
         },
         "geometry": {
             "type": "Polygon",
