@@ -5789,11 +5789,11 @@ var statesData = {
         "id": "CO8",
         "properties": {
             "name": "Montrose",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -9858,11 +9858,11 @@ var statesData = {
         "id": "CO26",
         "properties": {
             "name": "Delta",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -12568,11 +12568,11 @@ var statesData = {
         "id": "CO31",
         "properties": {
             "name": "Gunnison",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -16017,11 +16017,11 @@ var statesData = {
         "id": "CO36",
         "properties": {
             "name": "La Plata",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -16818,11 +16818,11 @@ var statesData = {
         "id": "CO38",
         "properties": {
             "name": "Mesa",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -17370,11 +17370,11 @@ var statesData = {
         "id": "CO40",
         "properties": {
             "name": "Montezuma",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -20344,11 +20344,11 @@ var statesData = {
         "id": "CO47",
         "properties": {
             "name": "San Miguel",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22077,11 +22077,11 @@ var statesData = {
         "id": "CO53",
         "properties": {
             "name": "Dolores",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22900,11 +22900,11 @@ var statesData = {
         "id": "CO57",
         "properties": {
             "name": "Garfield",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
