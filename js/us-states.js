@@ -58,11 +58,11 @@ var statesData = {
         "id": "02",
         "properties": {
             "name": "Alaska",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "counselor": "Noelle Clark",
+            "phone": "719-549-2093",
+            "email": "Noelle.Clark@csupueblo.edu",
+            "section": 3,
+            "imageUrl": 'img/Noelle.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3646,11 +3646,11 @@ var statesData = {
         "id": "41",
         "properties": {
             "name": "Oregon",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
-            "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "counselor": "Noelle Clark",
+            "phone": "719-549-2093",
+            "email": "Noelle.Clark@csupueblo.edu",
+            "section": 3,
+            "imageUrl": 'img/Noelle.JPG'
         },
         "geometry": {
             "type": "Polygon",
@@ -4334,11 +4334,11 @@ var statesData = {
         "id": "53",
         "properties": {
             "name": "Washington",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
-            "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "counselor": "Noelle Clark",
+            "phone": "719-549-2093",
+            "email": "Noelle.Clark@csupueblo.edu",
+            "section": 3,
+            "imageUrl": 'img/Noelle.JPG'
         },
         "geometry": {
             "type": "MultiPolygon",
