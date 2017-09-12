@@ -1868,11 +1868,11 @@ var statesData = {
         "id": "16",
         "properties": {
             "name": "Idaho",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -1952,11 +1952,11 @@ var statesData = {
         "id": "17",
         "properties": {
             "name": "Illinois",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -2796,11 +2796,11 @@ var statesData = {
         "id": "27",
         "properties": {
             "name": "Minnesota",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -3032,11 +3032,11 @@ var statesData = {
         "id": "30",
         "properties": {
             "name": "Montana",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -3484,11 +3484,11 @@ var statesData = {
         "id": "38",
         "properties": {
             "name": "North Dakota",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -3872,11 +3872,11 @@ var statesData = {
         "id": "46",
         "properties": {
             "name": "South Dakota",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -4150,11 +4150,11 @@ var statesData = {
         "id": "49",
         "properties": {
             "name": "Utah",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -4517,11 +4517,11 @@ var statesData = {
         "id": "55",
         "properties": {
             "name": "Wisconsin",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -4610,11 +4610,11 @@ var statesData = {
         "id": "56",
         "properties": {
             "name": "Wyoming",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -5508,11 +5508,11 @@ var statesData = {
         "id": "CO6",
         "properties": {
             "name": "Logan",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -5899,11 +5899,11 @@ var statesData = {
         "id": "CO9",
         "properties": {
             "name": "Morgan",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -6159,11 +6159,11 @@ var statesData = {
         "id": "CO11",
         "properties": {
             "name": "Phillips",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -6416,11 +6416,11 @@ var statesData = {
         "id": "CO14",
         "properties": {
             "name": "Rio Blanco",
-            "counselor": "Mike *",
-            "phone": "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -6598,11 +6598,11 @@ var statesData = {
         "id": "CO16",
         "properties": {
             "name": "Adams",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -7158,11 +7158,11 @@ var statesData = {
         "id": "CO18",
         "properties": {
             "name": "Arapahoe",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -8682,11 +8682,11 @@ var statesData = {
         "id": "CO23",
         "properties": {
             "name": "Clear Creek",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -10170,11 +10170,11 @@ var statesData = {
         "id": "CO27",
         "properties": {
             "name": "Denver",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -11259,11 +11259,11 @@ var statesData = {
         "id": "CO29",
         "properties": {
             "name": "Eagle",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -11657,11 +11657,11 @@ var statesData = {
         "id": "CO30",
         "properties": {
             "name": "Grand",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -14076,11 +14076,11 @@ var statesData = {
         "id": "CO33",
         "properties": {
             "name": "Jackson",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -17286,11 +17286,11 @@ var statesData = {
         "id": "CO39",
         "properties": {
             "name": "Moffat",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -18648,11 +18648,11 @@ var statesData = {
         "id": "CO43",
         "properties": {
             "name": "Pitkin",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -19186,11 +19186,11 @@ var statesData = {
         "id": "CO44",
         "properties": {
             "name": "Routt",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -20709,11 +20709,11 @@ var statesData = {
         "id": "CO48",
         "properties": {
             "name": "Summit",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -23033,11 +23033,11 @@ var statesData = {
         "id": "CO58",
         "properties": {
             "name": "Gilpin",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
@@ -23232,11 +23232,11 @@ var statesData = {
         "id": "CO59",
         "properties": {
             "name": "Sedgwick",
-            "counselor": "Mike *",
-            "phone" : "719-549-****",
-            "email": "Mike.*@csupueblo.edu",
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
             "section": 5,
-            "imageUrl": 'img/Mike.jpg'
+            "imageUrl": 'img/blank.png'
         },
         "geometry": {
             "type": "Polygon",
