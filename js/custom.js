@@ -45,6 +45,7 @@ $(document).ready(function() {
         sec == 2  ? '#33cc33' :
         sec == 3  ? '#ff0000' :
         sec == 4  ? '#cc00ff' :
+        sec == 5  ? '#ffff00' :
         'transparent';
     }
 
