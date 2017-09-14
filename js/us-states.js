@@ -3188,11 +3188,11 @@ var statesData = {
         "id": "33",
         "properties": {
             "name": "New Hampshire",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3771,11 +3771,11 @@ var statesData = {
         "id": "44",
         "properties": {
             "name": "Rhode Island",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "MultiPolygon",
