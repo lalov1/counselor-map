@@ -41,10 +41,11 @@ $(document).ready(function() {
 
     // Color states/counties differently if needed (based on property called "section" in statesData)
     function getColor(sec) {
-        return sec == 1 ? '#0066ff' :
-        sec == 2  ? '#33cc33' :
-        sec == 3  ? '#ff0000' :
-        sec == 4  ? '#cc00ff' :
+        return sec == 1 ? '#00396a' :
+        sec == 2  ? '#58595b' :
+        sec == 3  ? '#572642' :
+        sec == 4  ? '#ce7019' :
+        sec == 5  ? '#b30838' :
         'transparent';
     }
 

@@ -58,11 +58,11 @@ var statesData = {
         "id": "02",
         "properties": {
             "name": "Alaska",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
-            "imageUrl": 'img/blank.png'
+            "counselor": "Noelle Clark",
+            "phone": "719-549-2093",
+            "email": "Noelle.Clark@csupueblo.edu",
+            "section": 3,
+            "imageUrl": 'img/Noelle.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -1358,7 +1358,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -1413,7 +1413,7 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "Noelle.Clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Noelle.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -1553,11 +1553,11 @@ var statesData = {
         "id": "09",
         "properties": {
             "name": "Connecticut",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -1587,11 +1587,11 @@ var statesData = {
         "id": "10",
         "properties": {
             "name": "Delaware",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -1787,7 +1787,7 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "Noelle.Clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Noelle.jpg"
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -1868,10 +1868,10 @@ var statesData = {
         "id": "16",
         "properties": {
             "name": "Idaho",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -1952,10 +1952,10 @@ var statesData = {
         "id": "17",
         "properties": {
             "name": "Illinois",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -2037,11 +2037,11 @@ var statesData = {
         "id": "18",
         "properties": {
             "name": "Indiana",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2105,7 +2105,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2173,7 +2173,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2297,7 +2297,7 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2387,11 +2387,11 @@ var statesData = {
         "id": "23",
         "properties": {
             "name": "Maine",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Wiess",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2559,11 +2559,11 @@ var statesData = {
         "id": "25",
         "properties": {
             "name": "Massachusetts",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2612,11 +2612,11 @@ var statesData = {
         "id": "26",
         "properties": {
             "name": "Michigan",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -2796,10 +2796,10 @@ var statesData = {
         "id": "27",
         "properties": {
             "name": "Minnesota",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2644",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -2901,7 +2901,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -2965,7 +2965,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3032,10 +3032,10 @@ var statesData = {
         "id": "30",
         "properties": {
             "name": "Montana",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -3106,7 +3106,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3153,7 +3153,7 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "Noelle.Clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Noelle.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3188,11 +3188,11 @@ var statesData = {
         "id": "33",
         "properties": {
             "name": "New Hampshire",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3234,11 +3234,11 @@ var statesData = {
         "id": "34",
         "properties": {
             "name": "New Jersey",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Wiess",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3288,7 +3288,7 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "Malorie.Weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/blank.png'
+            "imageUrl": 'img/Malorie.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -3319,11 +3319,11 @@ var statesData = {
         "id": "36",
         "properties": {
             "name": "New York",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3484,10 +3484,10 @@ var statesData = {
         "id": "38",
         "properties": {
             "name": "North Dakota",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -3518,11 +3518,11 @@ var statesData = {
         "id": "39",
         "properties": {
             "name": "Ohio",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3587,7 +3587,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3646,11 +3646,11 @@ var statesData = {
         "id": "41",
         "properties": {
             "name": "Oregon",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
-            "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "counselor": "Noelle Clark",
+            "phone": "719-549-2093",
+            "email": "Noelle.Clark@csupueblo.edu",
+            "section": 3,
+            "imageUrl": 'img/Noelle.JPG'
         },
         "geometry": {
             "type": "Polygon",
@@ -3720,11 +3720,11 @@ var statesData = {
         "id": "42",
         "properties": {
             "name": "Pennsylvania",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -3771,11 +3771,11 @@ var statesData = {
         "id": "44",
         "properties": {
             "name": "Rhode Island",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3872,10 +3872,10 @@ var statesData = {
         "id": "46",
         "properties": {
             "name": "South Dakota",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -3984,7 +3984,7 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -4150,10 +4150,10 @@ var statesData = {
         "id": "49",
         "properties": {
             "name": "Utah",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -4180,11 +4180,11 @@ var statesData = {
         "id": "50",
         "properties": {
             "name": "Vermont",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -4334,11 +4334,11 @@ var statesData = {
         "id": "53",
         "properties": {
             "name": "Washington",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
-            "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "counselor": "Noelle Clark",
+            "phone": "719-549-2093",
+            "email": "Noelle.Clark@csupueblo.edu",
+            "section": 3,
+            "imageUrl": 'img/Noelle.JPG'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -4517,10 +4517,10 @@ var statesData = {
         "id": "55",
         "properties": {
             "name": "Wisconsin",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -4610,10 +4610,10 @@ var statesData = {
         "id": "56",
         "properties": {
             "name": "Wyoming",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -4641,11 +4641,11 @@ var statesData = {
         "id": "CO1",
         "properties": {
             "name": "Hinsdale",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -5112,11 +5112,11 @@ var statesData = {
         "id": "CO4",
         "properties": {
             "name": "Las Animas",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -5508,10 +5508,10 @@ var statesData = {
         "id": "CO6",
         "properties": {
             "name": "Logan",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -5626,11 +5626,11 @@ var statesData = {
         "id": "CO7",
         "properties": {
             "name": "Mineral",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -5789,11 +5789,11 @@ var statesData = {
         "id": "CO8",
         "properties": {
             "name": "Montrose",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -5899,10 +5899,10 @@ var statesData = {
         "id": "CO9",
         "properties": {
             "name": "Morgan",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -6000,7 +6000,7 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "Noelle.Clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Noelle.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -6159,10 +6159,10 @@ var statesData = {
         "id": "CO11",
         "properties": {
             "name": "Phillips",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -6223,7 +6223,7 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "Noelle.Clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Noelle.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -6310,7 +6310,7 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -6416,10 +6416,10 @@ var statesData = {
         "id": "CO14",
         "properties": {
             "name": "Rio Blanco",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone": "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -6519,11 +6519,11 @@ var statesData = {
         "id": "CO15",
         "properties": {
             "name": "Rio Grande",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Sherrea Elliot", 
+            "phone" : "719-549-2704",
+            "email": "sherrea.elliot@csupueblo.edu",
+            "section": 4,
+            "imageUrl": "img/Sherrea.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -6598,10 +6598,10 @@ var statesData = {
         "id": "CO16",
         "properties": {
             "name": "Adams",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -7021,11 +7021,11 @@ var statesData = {
         "id": "CO17",
         "properties": {
             "name": "Alamosa",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Sherrea Elliot", 
+            "phone" : "719-549-2704",
+            "email": "sherrea.elliot@csupueblo.edu",
+            "section": 4,
+            "imageUrl": "img/Sherrea.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -7158,10 +7158,10 @@ var statesData = {
         "id": "CO18",
         "properties": {
             "name": "Arapahoe",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -7716,11 +7716,11 @@ var statesData = {
         "id": "CO19",
         "properties": {
             "name": "Archuleta",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -7791,11 +7791,11 @@ var statesData = {
         "id": "CO20",
         "properties": {
             "name": "Baca",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -7895,11 +7895,11 @@ var statesData = {
         "id": "CO21",
         "properties": {
             "name": "Bent",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -7983,7 +7983,7 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -8682,10 +8682,10 @@ var statesData = {
         "id": "CO23",
         "properties": {
             "name": "Clear Creek",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -9011,11 +9011,11 @@ var statesData = {
         "id": "CO24",
         "properties": {
             "name": "Costilla",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -9470,7 +9470,7 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -9858,11 +9858,11 @@ var statesData = {
         "id": "CO26",
         "properties": {
             "name": "Delta",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -10170,10 +10170,10 @@ var statesData = {
         "id": "CO27",
         "properties": {
             "name": "Denver",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -11259,10 +11259,10 @@ var statesData = {
         "id": "CO29",
         "properties": {
             "name": "Eagle",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -11657,10 +11657,10 @@ var statesData = {
         "id": "CO30",
         "properties": {
             "name": "Grand",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -12568,11 +12568,11 @@ var statesData = {
         "id": "CO31",
         "properties": {
             "name": "Gunnison",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -13300,11 +13300,11 @@ var statesData = {
         "id": "CO32",
         "properties": {
             "name": "Huerfano",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -14076,10 +14076,10 @@ var statesData = {
         "id": "CO33",
         "properties": {
             "name": "Jackson",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -16017,11 +16017,11 @@ var statesData = {
         "id": "CO36",
         "properties": {
             "name": "La Plata",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -16374,7 +16374,7 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "Malorie.Weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/blank.png'
+            "imageUrl": 'img/Malorie.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -16818,11 +16818,11 @@ var statesData = {
         "id": "CO38",
         "properties": {
             "name": "Mesa",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -17286,10 +17286,10 @@ var statesData = {
         "id": "CO39",
         "properties": {
             "name": "Moffat",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -17370,11 +17370,11 @@ var statesData = {
         "id": "CO40",
         "properties": {
             "name": "Montezuma",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -17722,11 +17722,11 @@ var statesData = {
         "id": "CO41",
         "properties": {
             "name": "Ouray",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -18648,10 +18648,10 @@ var statesData = {
         "id": "CO43",
         "properties": {
             "name": "Pitkin",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -19186,10 +19186,10 @@ var statesData = {
         "id": "CO44",
         "properties": {
             "name": "Routt",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -19575,7 +19575,7 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -20035,11 +20035,11 @@ var statesData = {
         "id": "CO46",
         "properties": {
             "name": "San Juan",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -20344,11 +20344,11 @@ var statesData = {
         "id": "CO47",
         "properties": {
             "name": "San Miguel",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "Malorie.Weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -20709,10 +20709,10 @@ var statesData = {
         "id": "CO48",
         "properties": {
             "name": "Summit",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -21336,7 +21336,7 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "Malorie.Weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/blank.png'
+            "imageUrl": 'img/Malorie.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -21682,11 +21682,11 @@ var statesData = {
         "id": "CO51",
         "properties": {
             "name": "Conejos",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "Ryan.Kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/blank.png"
+            "counselor": "Sherrea Elliot", 
+            "phone" : "719-549-2704",
+            "email": "sherrea.elliot@csupueblo.edu",
+            "section": 4,
+            "imageUrl": "img/Sherrea.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -21927,7 +21927,7 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22077,11 +22077,11 @@ var statesData = {
         "id": "CO53",
         "properties": {
             "name": "Dolores",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22638,7 +22638,7 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "Ryan.Kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/blank.png"
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22900,11 +22900,11 @@ var statesData = {
         "id": "CO57",
         "properties": {
             "name": "Garfield",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "Noelle.Clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/blank.png"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "Ryan.Kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -23033,10 +23033,10 @@ var statesData = {
         "id": "CO58",
         "properties": {
             "name": "Gilpin",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -23232,10 +23232,10 @@ var statesData = {
         "id": "CO59",
         "properties": {
             "name": "Sedgwick",
-            "counselor": "Malorie Weiss",
-            "phone" : "719-549-2637",
-            "email": "Malorie.Weiss@csupueblo.edu",
-            "section": 1,
+            "counselor": "Michael Hellman",
+            "phone" : "719-549-2093",
+            "email": "michael.hellman@csupueblo.edu",
+            "section": 5,
             "imageUrl": 'img/blank.png'
         },
         "geometry": {
@@ -23515,7 +23515,7 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "Malorie.Weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/blank.png'
+            "imageUrl": 'img/Malorie.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -23795,7 +23795,7 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "Malorie.Weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/blank.png'
+            "imageUrl": 'img/Malorie.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
