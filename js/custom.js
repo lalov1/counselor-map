@@ -12,8 +12,8 @@ $(document).ready(function() {
 
     // Map initialization
     var map = L.map('mainMap', {
-        center: [37.8, -96],
-        zoom: 3,
+        center: [40, -125],
+        zoom: 4,
         maxZoom: 7,
         fullscreenControl: true,
         layers: [light]
@@ -31,7 +31,7 @@ $(document).ready(function() {
         '<h2><em><strong>' + props.name + '</em></strong></h2><h3><i class="fa fa-user" aria-hidden="true"></i> ' + props.counselor +
         '<br></h3><p><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:' + props.email + '">' + props.email + '</a><br></p><p><i class="fa fa-phone-square" aria-hidden="true"></i> <a href="tel:1-' + props.phone + '">' + props.phone +
         '</a></p></div></div><div class=\'col-xs-12 col-sm-6 col-md-6 col-lg-6\'><img class=\'counselorImg\' src=' + props.imageUrl +
-        ' alt=\'counselor image\'></div></div><br><div class=\'returnBtn\'><button class=\'btn btn-lg btn-primary center-block\' onclick=\'returnToMap()\'>Return to Map</button></div>':
+        ' alt="' + props.counselor + '"></div></div><br><div class=\'returnBtn\'><button class=\'btn btn-lg btn-primary center-block\' onclick=\'returnToMap()\'>Return to Map</button></div>':
         'Click on a State or Colorado county to see who your counselor is');
         $('html,body').animate({
             scrollTop: $("#info").offset().top
