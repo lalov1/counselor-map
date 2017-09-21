@@ -29,7 +29,7 @@ $(document).ready(function() {
         // Change html elements here for styling
         document.getElementById('info').innerHTML = (props ? '<div class=\'row\'><div class=\'col-xs-12 col-sm-6 col-md-6 col-lg-6\'><div class=\'counselorText\'>' +
         '<h3><em><strong>' + props.name + '</em></strong></h3><p><i class="fa fa-user" aria-hidden="true"></i> ' + props.counselor +
-        '<br></p><p><i class="fa fa-envelope" aria-hidden="true"></i> ' + props.email + '<br></p><p><i class="fa fa-phone-square" aria-hidden="true"></i> ' + props.phone +
+        '<br></p><p><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:' + props.email + '">' + props.email + '</a><br></p><p><i class="fa fa-phone-square" aria-hidden="true"></i> <a href="tel:1-' + props.phone + '">' + props.phone +
         '</p></div></div><div class=\'col-xs-12 col-sm-6 col-md-6 col-lg-6\'><img class=\'counselorImg\' src=' + props.imageUrl +
         ' alt=\'counselor image\'></div></div><br><div class=\'returnBtn\'><button class=\'btn btn-lg btn-primary center-block\' onclick=\'returnToMap()\'>Return to Map</button></div>':
         'Click on a State or Colorado county to see who your counselor is');
