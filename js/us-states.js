@@ -7,11 +7,11 @@ var statesData = {
         "id": "01",
         "properties": {
             "name": "Alabama",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -1304,11 +1304,11 @@ var statesData = {
         "id": "04",
         "properties": {
             "name": "Arizona",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -1618,11 +1618,11 @@ var statesData = {
         "id": "12",
         "properties": {
             "name": "Florida",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -1714,11 +1714,11 @@ var statesData = {
         "id": "13",
         "properties": {
             "name": "Georgia",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -2200,11 +2200,11 @@ var statesData = {
         "id": "21",
         "properties": {
             "name": "Kentucky",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -2471,11 +2471,11 @@ var statesData = {
         "id": "24",
         "properties": {
             "name": "Maryland",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3405,11 +3405,11 @@ var statesData = {
         "id": "37",
         "properties": {
             "name": "North Carolina",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -3810,11 +3810,11 @@ var statesData = {
         "id": "45",
         "properties": {
             "name": "South Carolina",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -3919,11 +3919,11 @@ var statesData = {
         "id": "47",
         "properties": {
             "name": "Tennessee",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -4226,11 +4226,11 @@ var statesData = {
         "id": "51",
         "properties": {
             "name": "Virginia",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -4434,11 +4434,11 @@ var statesData = {
         "id": "54",
         "properties": {
             "name": "West Virginia",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -4915,11 +4915,11 @@ var statesData = {
         "id": "CO2",
         "properties": {
             "name": "Kiowa",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -5020,11 +5020,11 @@ var statesData = {
         "id": "CO3",
         "properties": {
             "name": "Kit Carson",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -5386,11 +5386,11 @@ var statesData = {
         "id": "CO5",
         "properties": {
             "name": "Lincoln",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -6519,11 +6519,11 @@ var statesData = {
         "id": "CO15",
         "properties": {
             "name": "Rio Grande",
-            "counselor": "Sherrea Elliot", 
-            "phone" : "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson", 
+            "phone" : "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": "img/Sherrea.jpg"
+            "imageUrl": "https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -7021,11 +7021,11 @@ var statesData = {
         "id": "CO17",
         "properties": {
             "name": "Alamosa",
-            "counselor": "Sherrea Elliot", 
-            "phone" : "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson", 
+            "phone" : "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": "img/Sherrea.jpg"
+            "imageUrl": "https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -10847,11 +10847,11 @@ var statesData = {
         "id": "CO28",
         "properties": {
             "name": "Douglas",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -14961,11 +14961,11 @@ var statesData = {
         "id": "CO34",
         "properties": {
             "name": "Jefferson",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -15665,11 +15665,11 @@ var statesData = {
         "id": "CO35",
         "properties": {
             "name": "Lake",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -18086,11 +18086,11 @@ var statesData = {
         "id": "CO42",
         "properties": {
             "name": "Park",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -21596,11 +21596,11 @@ var statesData = {
         "id": "CO50",
         "properties": {
             "name": "Cheyenne",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -21682,11 +21682,11 @@ var statesData = {
         "id": "CO51",
         "properties": {
             "name": "Conejos",
-            "counselor": "Sherrea Elliot", 
-            "phone" : "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson", 
+            "phone" : "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": "img/Sherrea.jpg"
+            "imageUrl": "https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22357,11 +22357,11 @@ var statesData = {
         "id": "CO54",
         "properties": {
             "name": "Elbert",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
 
         },
         "geometry": {
@@ -22478,11 +22478,11 @@ var statesData = {
         "id": "CO55",
         "properties": {
             "name": "El Paso",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -23307,11 +23307,11 @@ var statesData = {
         "id": "CO60",
         "properties": {
             "name": "Teller",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -23419,11 +23419,11 @@ var statesData = {
         "id": "CO61",
         "properties": {
             "name": "Washington",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -24184,11 +24184,11 @@ var statesData = {
         "id": "CO64",
         "properties": {
             "name": "Yuma",
-            "counselor": "Sherrea Elliot",
-            "phone": "719-549-2704",
-            "email": "sherrea.elliot@csupueblo.edu",
+            "counselor": "Taylor Jacobson",
+            "phone": "719-549-2432",
+            "email": "taylor.jacobson@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Sherrea.JPG'
+            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
         "geometry": {
             "type": "Polygon",
