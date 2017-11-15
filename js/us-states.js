@@ -7,9 +7,9 @@ var statesData = {
         "id": "01",
         "properties": {
             "name": "Alabama",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -1304,9 +1304,9 @@ var statesData = {
         "id": "04",
         "properties": {
             "name": "Arizona",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -1618,9 +1618,9 @@ var statesData = {
         "id": "12",
         "properties": {
             "name": "Florida",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -1714,9 +1714,9 @@ var statesData = {
         "id": "13",
         "properties": {
             "name": "Georgia",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -2200,9 +2200,9 @@ var statesData = {
         "id": "21",
         "properties": {
             "name": "Kentucky",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -2471,9 +2471,9 @@ var statesData = {
         "id": "24",
         "properties": {
             "name": "Maryland",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -3405,9 +3405,9 @@ var statesData = {
         "id": "37",
         "properties": {
             "name": "North Carolina",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -3810,9 +3810,9 @@ var statesData = {
         "id": "45",
         "properties": {
             "name": "South Carolina",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -3919,9 +3919,9 @@ var statesData = {
         "id": "47",
         "properties": {
             "name": "Tennessee",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -4226,9 +4226,9 @@ var statesData = {
         "id": "51",
         "properties": {
             "name": "Virginia",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -4434,9 +4434,9 @@ var statesData = {
         "id": "54",
         "properties": {
             "name": "West Virginia",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -4915,9 +4915,9 @@ var statesData = {
         "id": "CO2",
         "properties": {
             "name": "Kiowa",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -5020,9 +5020,9 @@ var statesData = {
         "id": "CO3",
         "properties": {
             "name": "Kit Carson",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -5386,9 +5386,9 @@ var statesData = {
         "id": "CO5",
         "properties": {
             "name": "Lincoln",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -6519,9 +6519,9 @@ var statesData = {
         "id": "CO15",
         "properties": {
             "name": "Rio Grande",
-            "counselor": "Taylor Jacobson", 
+            "counselor": "Taylor Jacobsen", 
             "phone" : "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": "https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg"
         },
@@ -7021,9 +7021,9 @@ var statesData = {
         "id": "CO17",
         "properties": {
             "name": "Alamosa",
-            "counselor": "Taylor Jacobson", 
+            "counselor": "Taylor Jacobsen", 
             "phone" : "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": "https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg"
         },
@@ -10847,9 +10847,9 @@ var statesData = {
         "id": "CO28",
         "properties": {
             "name": "Douglas",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -14961,9 +14961,9 @@ var statesData = {
         "id": "CO34",
         "properties": {
             "name": "Jefferson",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -15665,9 +15665,9 @@ var statesData = {
         "id": "CO35",
         "properties": {
             "name": "Lake",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -18086,9 +18086,9 @@ var statesData = {
         "id": "CO42",
         "properties": {
             "name": "Park",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -21596,9 +21596,9 @@ var statesData = {
         "id": "CO50",
         "properties": {
             "name": "Cheyenne",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -21682,9 +21682,9 @@ var statesData = {
         "id": "CO51",
         "properties": {
             "name": "Conejos",
-            "counselor": "Taylor Jacobson", 
+            "counselor": "Taylor Jacobsen", 
             "phone" : "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": "https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg"
         },
@@ -22357,9 +22357,9 @@ var statesData = {
         "id": "CO54",
         "properties": {
             "name": "Elbert",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
 
@@ -22478,9 +22478,9 @@ var statesData = {
         "id": "CO55",
         "properties": {
             "name": "El Paso",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -23307,9 +23307,9 @@ var statesData = {
         "id": "CO60",
         "properties": {
             "name": "Teller",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -23419,9 +23419,9 @@ var statesData = {
         "id": "CO61",
         "properties": {
             "name": "Washington",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
@@ -24184,9 +24184,9 @@ var statesData = {
         "id": "CO64",
         "properties": {
             "name": "Yuma",
-            "counselor": "Taylor Jacobson",
+            "counselor": "Taylor Jacobsen",
             "phone": "719-549-2432",
-            "email": "taylor.jacobson@csupueblo.edu",
+            "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
         },
