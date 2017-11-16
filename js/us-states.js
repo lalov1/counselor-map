@@ -11,7 +11,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -1308,7 +1308,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -1622,7 +1622,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -1718,7 +1718,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -2204,7 +2204,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -2475,7 +2475,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3409,7 +3409,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -3814,7 +3814,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -3923,7 +3923,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -4230,7 +4230,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -4438,7 +4438,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -4919,7 +4919,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -5024,7 +5024,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -5390,7 +5390,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -6523,7 +6523,7 @@ var statesData = {
             "phone" : "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": "Taylor.jpg"
+            "imageUrl": "img/Taylor.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -7025,7 +7025,7 @@ var statesData = {
             "phone" : "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": "Taylor.jpg"
+            "imageUrl": "img/Taylor.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -10851,7 +10851,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -15669,7 +15669,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -18090,7 +18090,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -21600,7 +21600,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -21686,7 +21686,7 @@ var statesData = {
             "phone" : "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": "Taylor.jpg"
+            "imageUrl": "img/Taylor.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -22361,7 +22361,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
 
         },
         "geometry": {
@@ -22482,7 +22482,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -23311,7 +23311,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -23423,7 +23423,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
@@ -24188,7 +24188,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg'
         },
         "geometry": {
             "type": "Polygon",
