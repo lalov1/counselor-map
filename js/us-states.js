@@ -2387,7 +2387,7 @@ var statesData = {
         "id": "23",
         "properties": {
             "name": "Maine",
-            "counselor": "Malorie Wiess",
+            "counselor": "Malorie Weiss",
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
@@ -3234,7 +3234,7 @@ var statesData = {
         "id": "34",
         "properties": {
             "name": "New Jersey",
-            "counselor": "Malorie Wiess",
+            "counselor": "Malorie Weiss",
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
@@ -5996,11 +5996,11 @@ var statesData = {
         "id": "CO10",
         "properties": {
             "name": "Otero",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "noelle.clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "malorie.weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -6219,11 +6219,11 @@ var statesData = {
         "id": "CO12",
         "properties": {
             "name": "Prowers",
-            "counselor": "Noelle Clark",
-            "phone": "719-549-2093",
-            "email": "noelle.clark@csupueblo.edu",
-            "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "malorie.weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -14961,11 +14961,11 @@ var statesData = {
         "id": "CO34",
         "properties": {
             "name": "Jefferson",
-            "counselor": "Taylor Jacobsen",
-            "phone": "719-549-2432",
-            "email": "taylor.jacobsen@csupueblo.edu",
-            "section": 4,
-            "imageUrl": 'https://www.csupueblo.edu/_image-repository/_img/pro-male-blank-226x300.jpg'
+            "counselor": "Malorie Weiss",
+            "phone": "719-549-2637",
+            "email": "malorie.weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": 'img/Malorie.jpg'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -19571,11 +19571,11 @@ var statesData = {
         "id": "CO45",
         "properties": {
             "name": "Saguache",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "ryan.kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "malorie.weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -20344,11 +20344,11 @@ var statesData = {
         "id": "CO47",
         "properties": {
             "name": "San Miguel",
-            "counselor": "Malorie Weiss",
-            "phone": "719-549-2637",
-            "email": "malorie.weiss@csupueblo.edu",
-            "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "counselor": "Ryan Kendall",
+            "phone": "719-549-2644",
+            "email": "ryan.kendall@csupueblo.edu",
+            "section": 2,
+            "imageUrl": "img/Ryan.jpg"
         },
         "geometry": {
             "type": "Polygon",
@@ -21923,11 +21923,11 @@ var statesData = {
         "id": "CO52",
         "properties": {
             "name": "Crowley",
-            "counselor": "Ryan Kendall", 
-            "phone" : "719-549-2644",
-            "email": "ryan.kendall@csupueblo.edu",
-            "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "counselor": "Malorie Weiss", 
+            "phone" : "719-549-2637",
+            "email": "malorie.weiss@csupueblo.edu",
+            "section": 1,
+            "imageUrl": "img/Malorie.jpg"
         },
         "geometry": {
             "type": "Polygon",
