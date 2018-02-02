@@ -1562,7 +1562,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1596,7 +1597,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2049,7 +2051,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2403,7 +2406,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2576,7 +2580,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2629,7 +2634,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3209,7 +3215,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3255,7 +3262,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3305,7 +3313,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "imageUrl": 'img/Malorie.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3340,7 +3349,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3539,7 +3549,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3743,7 +3754,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3794,7 +3806,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -4206,7 +4219,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -4670,7 +4684,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5143,7 +5158,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5658,7 +5674,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -6029,7 +6046,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -6252,7 +6270,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -7752,7 +7771,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -7827,7 +7847,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -7931,7 +7952,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -9048,7 +9070,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -13341,7 +13364,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -15002,7 +15026,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "imageUrl": 'img/Malorie.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -16413,7 +16438,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "imageUrl": 'img/Malorie.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -17767,7 +17793,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -19617,7 +19644,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -20081,7 +20109,8 @@ var statesData = {
             "phone": "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -21379,7 +21408,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "imageUrl": 'img/Malorie.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -21972,7 +22002,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": "img/Malorie.jpg"
+            "imageUrl": "img/Malorie.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "Polygon",
@@ -23567,7 +23598,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "imageUrl": 'img/Malorie.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -23847,7 +23879,8 @@ var statesData = {
             "phone" : "719-549-2637",
             "email": "malorie.weiss@csupueblo.edu",
             "section": 1,
-            "imageUrl": 'img/Malorie.jpg'
+            "imageUrl": 'img/Malorie.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is its size. The classes are just the right size to where you know your professors and classmates. The campus itself is small enough that you know a lot of people, but is also large enough that you are always meeting new people.'
         },
         "geometry": {
             "type": "MultiPolygon",
