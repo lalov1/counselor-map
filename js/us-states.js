@@ -63,7 +63,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "noelle.clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": 'img/Noelle.jpg'
+            "imageUrl": 'img/Noelle.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo are the study abroad opportunities and multicultural activities that help bring the world to campus.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -1415,7 +1416,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "noelle.clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "imageUrl": "img/Noelle.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo are the study abroad opportunities and multicultural activities that help bring the world to campus.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1791,7 +1793,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "noelle.clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "imageUrl": "img/Noelle.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo are the study abroad opportunities and multicultural activities that help bring the world to campus.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3159,7 +3162,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "noelle.clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": "img/Noelle.jpg"
+            "imageUrl": "img/Noelle.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo are the study abroad opportunities and multicultural activities that help bring the world to campus.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3656,7 +3660,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "noelle.clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": 'img/Noelle.JPG'
+            "imageUrl": 'img/Noelle.JPG',
+            "quote": 'My favorite thing about CSU-Pueblo are the study abroad opportunities and multicultural activities that help bring the world to campus.'
         },
         "geometry": {
             "type": "Polygon",
@@ -4347,7 +4352,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "noelle.clark@csupueblo.edu",
             "section": 3,
-            "imageUrl": 'img/Noelle.JPG'
+            "imageUrl": 'img/Noelle.JPG',
+            "quote": 'My favorite thing about CSU-Pueblo are the study abroad opportunities and multicultural activities that help bring the world to campus.'
         },
         "geometry": {
             "type": "MultiPolygon",
