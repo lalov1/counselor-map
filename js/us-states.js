@@ -11,7 +11,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1308,7 +1309,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1622,7 +1624,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1718,7 +1721,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2204,7 +2208,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2475,7 +2480,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -3409,7 +3415,7 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',"quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3814,7 +3820,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3923,7 +3930,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -4230,7 +4238,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -4438,7 +4447,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -4919,7 +4929,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5024,7 +5035,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5390,7 +5402,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -6523,7 +6536,8 @@ var statesData = {
             "phone" : "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": "img/Taylor.jpg"
+            "imageUrl": "img/Taylor.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -7025,7 +7039,8 @@ var statesData = {
             "phone" : "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": "img/Taylor.jpg"
+            "imageUrl": "img/Taylor.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -10851,7 +10866,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -15669,7 +15685,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -18090,7 +18107,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -21600,7 +21618,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -21686,7 +21705,8 @@ var statesData = {
             "phone" : "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": "img/Taylor.jpg"
+            "imageUrl": "img/Taylor.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -22361,7 +22381,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
 
         },
         "geometry": {
@@ -22482,7 +22503,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -23311,7 +23333,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -23423,7 +23446,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -24188,7 +24212,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
