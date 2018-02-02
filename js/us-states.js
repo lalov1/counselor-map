@@ -1361,7 +1361,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2112,7 +2113,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2180,7 +2182,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2305,7 +2308,8 @@ var statesData = {
             "phone": "719-549-2093",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2910,7 +2914,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2974,7 +2979,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -3115,7 +3121,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -3597,7 +3604,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -3997,7 +4005,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -5812,7 +5821,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -6329,7 +6339,8 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -8004,7 +8015,8 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -9491,7 +9503,8 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -9883,7 +9896,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -12594,7 +12608,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -16044,7 +16059,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -16845,7 +16861,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -17397,7 +17414,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -20372,7 +20390,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -22107,7 +22126,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -22666,7 +22686,8 @@ var statesData = {
             "phone" : "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -22932,7 +22953,8 @@ var statesData = {
             "phone": "719-549-2644",
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
-            "imageUrl": "img/Ryan.jpg"
+            "imageUrl": "img/Ryan.jpg",
+            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
