@@ -12,7 +12,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1311,7 +1311,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1362,7 +1362,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -1630,7 +1630,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -1727,7 +1727,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2119,7 +2119,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2188,7 +2188,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2220,7 +2220,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -2314,7 +2314,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2494,7 +2494,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -2924,7 +2924,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -2989,7 +2989,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -3132,7 +3132,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -3440,7 +3440,8 @@ var statesData = {
             "phone": "719-549-2432",
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
-            "imageUrl": 'img/Taylor.jpg',"quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "imageUrl": 'img/Taylor.jpg',
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3621,7 +3622,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -3852,7 +3853,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -3963,7 +3964,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -4025,7 +4026,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -4274,7 +4275,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "MultiPolygon",
@@ -4484,7 +4485,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -4969,7 +4970,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5075,7 +5076,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5443,7 +5444,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -5849,7 +5850,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -6371,7 +6372,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -6586,7 +6587,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": "img/Taylor.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -7090,7 +7091,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": "img/Taylor.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -8053,7 +8054,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -9543,7 +9544,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -9936,7 +9937,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -10927,7 +10928,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -12651,7 +12652,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -15752,7 +15753,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -16105,7 +16106,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -16908,7 +16909,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -17462,7 +17463,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -18180,7 +18181,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -20443,7 +20444,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -21698,7 +21699,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -21785,7 +21786,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": "img/Taylor.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -22182,7 +22183,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -22463,7 +22464,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
 
         },
         "geometry": {
@@ -22585,7 +22586,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -22742,7 +22743,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -23009,7 +23010,7 @@ var statesData = {
             "email": "ryan.kendall@csupueblo.edu",
             "section": 2,
             "imageUrl": "img/Ryan.jpg",
-            "quote": 'My favorite thing about CSU-Pueblo is the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
+            "quote": 'My favorite thing about CSU-Pueblo are the faculty and staff. When I was a student here, everyone always had an open door policy to help and assist students. Now as an employee at the University, I get the pleasure to contribute and give back to the students and staff. That open door policy has never changed. Team works makes the dream work!'
         },
         "geometry": {
             "type": "Polygon",
@@ -23419,7 +23420,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -23532,7 +23533,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
@@ -24300,7 +24301,7 @@ var statesData = {
             "email": "taylor.jacobsen@csupueblo.edu",
             "section": 4,
             "imageUrl": 'img/Taylor.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff that truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
+            "quote": 'My favorite thing about CSU-Pueblo is our small class sizes and the professors and staff who truly care about the students.  Another thing that I love about CSU-Pueblo is how much school spirit we have not only on campus, but in the community as well.'
         },
         "geometry": {
             "type": "Polygon",
