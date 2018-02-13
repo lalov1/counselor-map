@@ -1883,7 +1883,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        
         },
         "geometry": {
             "type": "Polygon",
@@ -1968,8 +1968,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -2822,7 +2821,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        
         },
         "geometry": {
             "type": "Polygon",
@@ -3061,8 +3060,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -3521,8 +3519,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -3916,8 +3913,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -4197,8 +4193,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -4569,8 +4564,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -4663,8 +4657,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -5567,8 +5560,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -5961,8 +5953,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -6223,8 +6214,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -6483,8 +6473,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -6667,8 +6656,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -7229,8 +7217,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -8758,8 +8745,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -10250,8 +10236,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -11341,8 +11326,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -11740,8 +11724,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -14162,8 +14145,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -17378,8 +17360,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -18744,8 +18725,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -19283,8 +19263,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -20810,8 +20789,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -23144,8 +23122,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -23344,8 +23321,7 @@ var statesData = {
             "email": "michael.hellman@csupueblo.edu",
             "section": 5,
             "imageUrl": 'img/Mike.jpg',
-            "quote": 'My favorite thing about CSU-Pueblo is the Occhiato Student Center which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  By putting student needs at the heart of its institutional values, CSU-Pueblo yet again rejects the temptations of complacency and myopia in favor of working for the members of its community.'
-        },
+            "quote": 'My favorite thing about CSU-Pueblo is the new Occhiato Student Center, which reflects CSU-Pueblo\'s continued commitment to improving the quality of education for its students.  I like to see concerted efforts by our administration to help future students, as it makes me feel supported when I go out on the road to speak with them.'        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
